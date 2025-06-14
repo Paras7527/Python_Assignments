@@ -1,0 +1,6 @@
+Name	Marks
+Paras	78
+Manasi	89
+Vaibhav	66
+Sid	67
+varad	90
